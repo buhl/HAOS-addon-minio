@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  minio:
+    repository: buhl/HAOS-addon-minio
+    target: minio
+    image: buhl/minio-{arch}

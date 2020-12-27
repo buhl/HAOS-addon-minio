@@ -1,0 +1,13 @@
+{
+    "addon": {
+        "port": 9000
+    },
+    "credentials": {
+        "access_key": "minio",
+        "secret_key": "minio123"
+    },
+    "size": 2,
+    "authorized_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC7PmoDQZZ0Sa7Ii9D9YvDqKmklkqEVikL86+opVN5Ae63dnn3sMuTnmQw5WLz5Ce+gll06x+w8gGN1z0WSm/u8pJLVg67rsqRlllo4qMH41Agu1Gat7S8R7Xes9oMoT1cbEt9LdPRHKnSrZhOeQwO2M8V3QKIvWLVK9GbKu3rzVxKJ1kpD12M3SQ00EK3h/uFT1me2bBuJolJFm9JK3O4xjJWPLVX+7by282ZjwiyrG3HIeH+kPp9OQoJtHUS1R1K2qDted7n89MYrfKqER/IuhqenK58vQpPoTucTUPOrKX0RTnWoUhesD4xb6C6r4bR5Us/yBs8s4ILs3RK/ajMwMnyC1HFl1W1mGlLwjqaZzl7e0dPCo9zQwMgIwHWpkBPXVq4+JIdWwXHha0bVdykcZfNWgwk88QmLCKVFO81gCme+VtbdzmuEw6TpKft3bkPfJmtt56xOeXoSTtC3zz+S4PQy+wQiCHIvj9vF7TFUpp0eggKDDwlH+HOuifCy8Y8= user@laptop"
+    ]
+}
